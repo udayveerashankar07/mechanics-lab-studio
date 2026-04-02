@@ -1,6 +1,6 @@
 # Mechanics Lab Studio
 
-A web-based physics simulation app to help understand concepts like oscillations, waves, damping, and resonance.
+A web-based physics simulation app to help understand concepts like oscillations, waves, damping, and resonance with interactive ui.
 
 🔗 Live Site:  
 https://udayveerashankar07.github.io/mechanics-lab-studio/
@@ -12,9 +12,7 @@ https://udayveerashankar07.github.io/mechanics-lab-studio/
 - 8 physics experiments with simulations  
 - Graphs using Chart.js  
 - Adjustable parameters (frequency, damping, etc.)  
-- Two explanation modes (conceptual and mathematical)  
-- Basic AI chat interface for doubts (frontend only)
-
+- Two explanation modes (conceptual and mathematical)
 ---
 
 ## Experiments
@@ -39,4 +37,4 @@ https://udayveerashankar07.github.io/mechanics-lab-studio/
 
 ---
 
-## Project Structure
+## Author u.v.s
